@@ -1,0 +1,27 @@
+{
+  "name": "over-url-loader-webpack",
+  "version": "1.0.0",
+  "description": "webpack loader; 超出设定大小后 执行自定义操作上传图片至cdn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fengzhiyuanworks/over-url-loader-webpack.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "url-loader"
+  ],
+  "author": "fengzhiyuanworks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fengzhiyuanworks/over-url-loader-webpack/issues"
+  },
+  "homepage": "https://github.com/fengzhiyuanworks/over-url-loader-webpack#readme",
+  "dependencies": {
+    "loader-utils": "^3.2.0"
+  }
+}

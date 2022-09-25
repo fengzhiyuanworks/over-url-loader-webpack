@@ -1,0 +1,14 @@
+lockfileVersion: 5.4
+
+specifiers:
+  loader-utils: ^3.2.0
+
+dependencies:
+  loader-utils: 3.2.0
+
+packages:
+
+  /loader-utils/3.2.0:
+    resolution: {integrity: sha512-HVl9ZqccQihZ7JM85dco1MvO9G+ONvxoGa9rkhzFsneGLKSUg1gJf9bWzhRhcvm2qChhWpebQhP44qxjKIUCaQ==}
+    engines: {node: '>= 12.13.0'}
+    dev: false
