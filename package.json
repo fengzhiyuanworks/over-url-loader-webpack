@@ -1,5 +1,5 @@
 {
-  "name": "over-url-loader-webpack",
+  "name": "over-url-loader",
   "version": "1.0.0",
   "description": "webpack loader; 超出设定大小后 执行自定义操作上传图片至cdn",
   "main": "index.js",
